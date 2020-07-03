@@ -11,5 +11,6 @@ I'm currently working on my Capstone project, \[Code]opoly, with my project mate
 Also in the works is my Stackathon project, goodbuy, a Chrome Extension that suggests ethical shopping alternatives for users browsing Amazon.
 
 
-Proficient – JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, HTML, CSS, WordPress
-Experience – Chrome Extensions, Material UI, TDD (Mocha, Chai, Jasmine), Firebase/Firestore, Phaser
+Proficient: JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, HTML, CSS, WordPress
+
+Experience: Chrome Extensions, Material UI, TDD (Mocha, Chai, Jasmine), Firebase/Firestore, Phaser
