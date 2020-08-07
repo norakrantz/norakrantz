@@ -17,3 +17,4 @@ Also in the works is my personal website (React) - stay tuned!
 
 **Familiar** – Heroku, TDD (Mocha, Chai, Jasmine), Adobe Photoshop 
 
+Feel free to [reach out](mailto:norakrantz1@gmail.com) with questions (or just to say hi)!
