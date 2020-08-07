@@ -10,7 +10,10 @@ Lately I've been working on \[Code]opoly, an interview prep game built with Phas
 
 Also in the works is my personal website (React) - stay tuned!
 
-Proficient – JavaScript, React, Redux, Node.js, Express, Sequelize, Firebase/Firestore, HTML, CSS, WordPress, Git
-Knowledgeable – Webpack, Phaser, Material UI, Chrome Extensions, PostgreSQL, Sass 
-Familiar – Heroku, TDD (Mocha, Chai, Jasmine), Adobe Photoshop 
+
+**Proficient** – JavaScript, React, Redux, Node.js, Express, Sequelize, Firebase/Firestore, HTML, CSS, WordPress, Git
+
+**Knowledgeable** – Webpack, Phaser, Material UI, Chrome Extensions, PostgreSQL, Sass
+
+**Familiar** – Heroku, TDD (Mocha, Chai, Jasmine), Adobe Photoshop 
 
